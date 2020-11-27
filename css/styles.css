@@ -1,0 +1,151 @@
+* {margin:0
+	padding:0;}
+
+body {background:url(../img/CriptoGround.jpg);
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: 100%;}
+
+      h2{font-size:60px;}
+
+p {height: 120px;
+   width:50%;
+   background: #f2f2f2;
+   margin: 30px 60px;
+   padding: 40px;
+   border: 10px solid #fff;}
+
+#barra {width: 30%;
+        height: 65%;
+        float: right;
+        position: relative;
+        top: -15px;
+        right: 15px;
+        background: #FFA129;
+       
+        padding: 20px;
+        border: 10px solid #FFD39B;}
+
+#Critica1 {width: 95%;
+           height: 18%;
+           background: #f2f2f2;
+           margin: 20px 0px;
+           padding-top: 15px;
+           padding-left: 5px;
+           padding-right: -5px;
+           border: 10px solid #fff;}
+
+#Critica2 {width: 95%;
+           height: 10%;
+           background: #f2f2f2;
+           margin: 20px 0px;
+           padding-top: 15px;
+           padding-left: 5px;
+           padding-right: -5px;
+           border: 10px solid #fff;}
+
+#Martin {position: absolute;
+	     left: 500px;
+	     bottom: -1250px;
+	     overflow:hidden;
+         }
+
+#Critica3 {width: 95%;
+           height: 13%;
+           background: #f2f2f2;
+           margin: 20px 0px;
+           padding-top: 15px;
+           padding-left: 5px;
+           padding-right: -5px;
+           border: 10px solid #fff;}
+           
+
+#Brendan {position: absolute;
+	      left: 1175px;
+	      bottom: -915px;
+          overflow: hidden;}
+
+#Critica4 {width: 95%;
+           height: 10%;
+           background: #f2f2f2;
+           margin: 20px 0px;
+           padding-top: 15px;
+           padding-left: 5px;
+           padding-right: -5px;
+           border: 10px solid #fff;}
+
+#Kim {position: absolute;
+	      left: 1175px;
+	      bottom: -1032px;
+          overflow: hidden;}
+
+#PequeñasPatas {float: right;}
+
+#PPalhabla {float: right;
+	        width: 20%;
+	        height: 10%;
+	        margin: 20px 0px;
+	        padding: 10px;
+            background: #f2f2f2;
+            border: 10px solid #fff;}
+
+           
+
+#logo img {width:20%;}
+
+#box img {
+          height: 70%;
+          position: absolute;
+          bottom: -40px;
+          right: 30px;
+          float:right;
+          overflow:hidden;}
+
+#BEB img {
+          height: 70%;
+          position: relative;
+          bottom: 900px;
+          right: 50px;
+          float:right;
+          overflow:hidden;}
+
+#Edel img {
+          height: 50%;
+          position: relative;
+          bottom: 300px;
+          right: -400px;
+          float:right;
+          overflow:hidden;}
+
+
+header {
+	    width: "90%";
+        max-width: 1000px;
+        margin: 20px auto;}
+
+header nav {background: #FDFF79;
+	        overflow: hidden;}
+
+header nav ul {list-style: none;}
+header nav ul li {float:left;}
+header nav ul li a {padding: 10px 0px;
+                    display:block;
+                    margin-right: 60px;
+                    color:black;
+                    text-decoration: none;
+                    text-align: center;}
+header nav ul li a:hover{background: #FEFFC2;}
+
+footer {background: black;
+        color: white;
+        clear: both;
+        padding: 10px 0;
+        text-align: center;}
+@media (max width: 768px){
+       header{heigt:auto;
+       	border-bottom: 
+       	display:block;
+
+
+       }
+}
